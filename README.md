@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JZ407
 - 👀 I’m interested in multivariate data analysis in a variety of areas, particularly in experimental particle physics.
-- 🌱 I’m currently learning how to use pytorch to build MVA model based on stock data. 
+
 
 
 <!---

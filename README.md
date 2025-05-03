@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JZ407
+- 👋 Hi, I’m Zhou Jingzhi
 - 👀 I’m interested in multivariate data analysis in a variety of areas, particularly in experimental particle physics.
 
 
